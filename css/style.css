@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#cube {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    border-radius: 50%;
+    top: 0;
+    left: 0;
+    background: rgb(169, 43, 169);
+    z-index: -1;
+}
